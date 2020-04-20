@@ -7,6 +7,9 @@ A simple Django Blog built to help myself and other developers practice working 
 
 
 ## Getting Started 🏁
+```
+[Website](http://www.api-arrayly.xyz/)
+```
 You can hook into this API by following the instructions I have given on the [documentation page](http://www.api-arrayly.xyz/overview/). I recommend that you practice with [Postman](https://www.postman.com/) first before integrating it into your own application.
 
 ### Prerequisites 🔑
