@@ -10,7 +10,7 @@ You can hook into this API by following the instructions I have given on the [do
 
 ### Prerequisites
 
-Contact me on my [main website](https://arrayly.com/contact/) expressing your reasons for wanting to use the API and the email address you have registered with. I will then generate an authentication token and contact you ASAP.
+In order to use the API, you require an authentication token. Contact me on my [main website](https://arrayly.com/contact/) expressing your reasons for wanting to use the API and the email address you have registered with. I will then generate an authentication token and contact you ASAP.
 
 ## Built With
 
